@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Test Case Generation"
+  short_description: "Generate QA test cases from requirements."
+  default_prompt: "Generate complete, non-duplicated manual QA test cases from the provided requirements, mockups, screenshots, or template."
