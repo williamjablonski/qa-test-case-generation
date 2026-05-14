@@ -19,4 +19,4 @@ Use this table when the user does not provide a test case template. Preserve the
 - `Severity`: Use `Critical`, `Major`, `Minor`, or `Trivial`.
 - `Test Type`: Use categories such as `Functional`, `Negative`, `Boundary`, `Validation`, `UI`, `Permission`, `Workflow`, `Integration`, `Regression`, `Usability`, or `Data Persistence`.
 - `Status`: Default to `Not Run`.
-- `Notes`: Add requirement IDs, mockup references, assumptions, dependencies, or clarifications.
+- `Notes`: Add source tags such as `Source: Requirement`, `Source: Mockup`, `Source: Requirement + Mockup`, or `Source: Inferred QA Risk`, plus requirement IDs, mockup references, assumptions, dependencies, or clarifications.
