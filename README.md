@@ -21,14 +21,14 @@ The skill guides an AI agent to act like a senior QA engineer: analyze requireme
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/saleem-daqa/qa-test-case-generation.git ~/.codex/skills/qa-test-case-generation
+git clone https://github.com/williamjablonski/qa-test-case-generation.git ~/.codex/skills/qa-test-case-generation
 ```
 
 ### Claude Code
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/saleem-daqa/qa-test-case-generation.git ~/.claude/skills/qa-test-case-generation
+git clone https://github.com/williamjablonski/qa-test-case-generation.git ~/.claude/skills/qa-test-case-generation
 ```
 
 ### Update Later
